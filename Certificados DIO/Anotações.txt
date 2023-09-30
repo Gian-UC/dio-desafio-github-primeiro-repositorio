@@ -1,0 +1,33 @@
+Algumas anotações que fiz referente ao curso de Git / GitHub:
+
+GIT:
+
+Git commit  -m “deixar uma mensagem” = grava as alterações no repositório;
+Git pull = puxa as alterações do repositório remoto para o local (busca e mescla);
+Git push = empurra as alterações do repositório local para o remoto.
+
+
+GITBASH:
+
+CTRL+L = LIMPA O TERMINAL;
+
+Global = para armazenar informações do usuário;
+System = configurações do sistema como um todo que abriga todos os usuários;
+Local = referente a configuração de um repositório especifico que a pessoa se encontra;
+
+Para inserir o mesmo nome e o mesmo email para todo os repositórios = inserir no global;
+
+Win + seta = divide as telas
+
+Ls - lista os arquivos;
+
+$ - inicio de um comando;
+
+SSH-KEYGEN - comando responsavel por gerar chaves ssh;
+
+-t (ex:ed25519) = especifica o algoritmo;
+
+-c = indica um comentario;
+
+Git init = cria um repositório;
+
