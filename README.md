@@ -1,7 +1,7 @@
 # Desafio de Projeto sobre Git/GitHub
 Repositório criado para o Desafio de Projeto.
 
-Neste repositório irei adicionar alguns certificados da DIO dos cursos que conclui:
+Neste repositório irei adicionar alguns certificados da DIO dos cursos que conclui e conforme for concluindo, irei adicionando:
 
 1 - Certificado Bootcamps DIO_Aula Inaugural_Potência Tech iFood;
 2 - Certificado Bootcamps DIO_Educação Gratuita e Empregabilidade Juntas;
